@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 int main() {
-    // ----------VARIÁVEIS----------
+    // ----------VARIÁVEIS-----------
     // Carta 1
     char estado1; //Estado da cidade
     char codigo1[4]; //Código da carta
